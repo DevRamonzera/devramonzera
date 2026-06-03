@@ -3,6 +3,12 @@
 **`Desenvolvedora Backend`**
 
 Me chamo Ramon, tenho 20 anos. Atualmente, estou cursando Engenharia de Software e aqui vou compartilhar o que eu construir nessa trajetória.
+
+<p align="left">
+    <a href="www.linkedin.com/in/ramon-santos-leite-043126375" title="LinkedIn">
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&" alt="LinkedIn"/>
+    </a>
+</p>
 <!--
 **DevRamonzera/devramonzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
