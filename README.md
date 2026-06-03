@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 Ramon Santos
 
-**`Desenvolvedora Backend`**
+**`Developer Backend`**
 
-Me chamo Ramon, tenho 20 anos. Atualmente, estou cursando Engenharia de Software e aqui vou compartilhar o que eu construir nessa trajetória.
+My name is Ramon, I'm 20 years old. Currently, I'm studying Software Engineering and here I will share what I build in this trajectory.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ramon-santos-leite-043126375" title="LinkedIn">
