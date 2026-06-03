@@ -1,5 +1,8 @@
-## Hi there 👋
+## 👨🏻‍💻 Ramon Santos
 
+**`Desenvolvedora Backend`**
+
+Me chamo Ramon, tenho 20 anos. Atualmente, estou cursando Engenharia de Software e aqui vou compartilhar o que eu construir nessa trajetória.
 <!--
 **DevRamonzera/devramonzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
