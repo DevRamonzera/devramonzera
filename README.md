@@ -5,7 +5,7 @@
 Me chamo Ramon, tenho 20 anos. Atualmente, estou cursando Engenharia de Software e aqui vou compartilhar o que eu construir nessa trajetória.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ramon-santos-leite" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/ramon-santos-leite-043126375" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&" alt="LinkedIn"/></a>
 </p>
 <!--
